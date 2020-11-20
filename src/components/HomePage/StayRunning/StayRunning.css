@@ -1,0 +1,24 @@
+.runImage img{
+    width: 100%;
+
+}
+
+.details h1{
+
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.btn{
+    color: white;
+    font-size: 100%;
+    width: 120px;
+    height: 45px;
+    border: none;
+    border-radius: 16px 0px 16px 0px;
+    background-image: linear-gradient(to left, #0fbcda, #00c4d7, #00cbd0, #00d2c6, #1bd8b9);
+}
+
+.running{
+    
+}
