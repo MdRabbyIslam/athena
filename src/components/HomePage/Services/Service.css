@@ -1,0 +1,6 @@
+.service:hover {
+  background-color: white;
+  border-radius: 35% 0 35% 0;
+  -webkit-box-shadow: 6px 24px 43px 23px rgba(148, 232, 255, 0.33);
+  box-shadow: 6px 24px 43px 23px rgba(148, 232, 255, 0.23);
+}

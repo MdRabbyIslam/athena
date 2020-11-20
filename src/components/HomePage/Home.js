@@ -8,7 +8,7 @@ import StayRunning from "./StayRunning/StayRunning";
 
 const Home = () => {
   return (
-    <div>
+    <div style={{ backgroundColor: "rgba(104, 212, 255, 0.03)" }}>
       <Header></Header>
       <Services></Services>
       <StayRunning></StayRunning>
