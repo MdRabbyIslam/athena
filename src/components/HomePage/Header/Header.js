@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Button, Row, Col } from "react-bootstrap";
 import headerbg from "../../../Images/headerbg.png";
 import NavigationBar from "./NavigationBar";
-import group46 from "../../../Images/Group 46@2x.png";
+import group46 from "../../../Images/Group 49.png";
 
 const Header = () => {
   return (
-    <Container style={{ backgroundImage: `url(${group46})` }}>
+    <Container>
       <NavigationBar></NavigationBar>
       <Row className="align-items-center">
         <Col md={5}>
