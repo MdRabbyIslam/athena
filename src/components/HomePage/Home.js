@@ -1,5 +1,4 @@
 import React from "react";
-import SearchBar from "../SearchBar/SearchBar";
 import Achievement from "./Achievement/Achievement";
 import Footer from "./Footer/Footer";
 import Header from "./Header/Header";
@@ -15,7 +14,6 @@ const Home = () => {
       <StayRunning></StayRunning>
       <Achievement></Achievement>
       <Pricing></Pricing>
-      <SearchBar></SearchBar>
       <Footer></Footer>
     </div>
   );
