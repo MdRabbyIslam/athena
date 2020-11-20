@@ -1,0 +1,21 @@
+.form-control-borderless {
+    border: none;
+}
+.body{
+    background-color: #fafffd;
+}
+.headings{
+    font-family: 'Playfair Display', serif;
+}
+.head{
+    text-align: center;
+}
+.btn-src{
+    border: none;
+    background-image: linear-gradient(to left, #0fbcda, #00c4d7, #00cbd0, #00d2c6, #1bd8b9);
+}
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}

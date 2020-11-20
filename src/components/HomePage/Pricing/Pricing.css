@@ -1,0 +1,13 @@
+.crd-mar{
+    border-bottom: 2px solid  #00d2c6;
+    border-width: 10%;
+}
+.prc-body{
+    background-image: url('../../../Images/bg-price.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    background-color: #fafffd;
+}
+.a-card:hover{
+        border: 3px solid  #00d2c6
+}
